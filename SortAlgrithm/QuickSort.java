@@ -1,4 +1,4 @@
-mport java.util.Comparator;
+import java.util.Comparator;
 
 public class QuickSort {
       public static <T> void quickSort(T[]arr,Comparator<T> compare){
